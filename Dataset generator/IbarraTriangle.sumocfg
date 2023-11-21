@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<configuration>
+	<input>
+		<net-file value="IbarraTriangleMap2.net.xml"/>
+		<!--<route-files value="routes.rou.xml"/>-->
+		
+	</input>
+
+	<time>
+		<begin value="0"/>	
+		<end value="3600"/>
+	</time>
+	
+</configuration>
