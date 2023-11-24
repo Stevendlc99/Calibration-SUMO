@@ -8,6 +8,7 @@ El tutorial se realizá para el escenario 2 como base, la metodología propuesta
 3. Una vez identificadas las rutas, procedemos a colocarlas en el archivo connection_SUMO.py de la siguiente manera:
 ![Logo de mi proyecto](https://github.com/Stevendlc99/Calibration-SUMO/raw/main/Images/rutas.jpeg)
 5. Añadimos los contadores en las intersecciones o salidas y realizamos el conteo.
+   
 ![Logo de mi proyecto](https://github.com/Stevendlc99/Calibration-SUMO/raw/main/Images/contadores.jpeg)
 ## Para ejecutar múltiples simulaciones
 
